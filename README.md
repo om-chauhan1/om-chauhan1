@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OM CHAUHAN
-- 
-🌍 Based in India 🇮🇳 | 🎓 2nd Year Computer Science Student
+
+🎓 2nd Year Computer Science Student
 
 ### About Me
 
