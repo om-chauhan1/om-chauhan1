@@ -3,8 +3,7 @@
 🎓 2nd Year Computer Science Student
 
 ### About Me
-
-Hello, I'm OM Chauhan, a passionate computer science student currently pursuing my B.Tech. I have a strong affinity for coding and a knack for problem-solving.
+I am a passionate computer science student currently pursuing my B.Tech. I have a strong affinity for coding and a knack for problem-solving.
 
 ### Tech Stack
 
