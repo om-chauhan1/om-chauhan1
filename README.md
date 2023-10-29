@@ -2,6 +2,8 @@
 
 🎓 2nd Year Computer Science Student
 
+[![An image of @omchauhan1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omchauhan1)](https://holopin.io/@omchauhan1)
+
 ### About Me
 I am a passionate computer science student currently pursuing my B.Tech. I have a strong affinity for coding and a knack for problem-solving.
 
