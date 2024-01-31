@@ -18,8 +18,7 @@ I am a passionate computer science student currently pursuing my B.Tech. I have 
 Apart from coding, I'm enthusiastic about contributing to open-source projects and making a positive impact on the tech community. I'm eager to learn and grow as a developer.
 
 Let's connect and collaborate on exciting projects! 🚀
--     1. 📧Email :- e22cseu1437@bennett.edu.in , omchauhan64408@gmail.com
--     2. Whatsapp:- 9759498037
+-     📧Email :- omchauhan64408@gmail.com
 <!---
 om-chauhan1/om-chauhan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
