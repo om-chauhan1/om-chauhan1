@@ -10,7 +10,7 @@ I am a passionate computer science student currently pursuing my B.Tech. I have 
 ### Tech Stack
 
 - 💻 Proficient in C++ | Data Structures | Algorithms
-- 🌐 Learning Full Stack Development (MERN Stack Enthusiast)
+- 🌐 Full Stack Developer (MERN Stack | Ruby on Rails)
 - 📡 Researching in VANET domain using SUMO & NS3
 
 ### Interests
